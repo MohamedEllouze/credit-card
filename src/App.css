@@ -1,0 +1,88 @@
+.Card{
+  border:solid 2px;
+  border-radius: 10px;
+  width:400px;
+  height: 250px;
+  background-color: aquamarine;
+
+}
+.Visa{
+
+  width: 60px;
+  height: 100px;
+}
+h1{
+  color:#000;
+  height: 20%;
+}
+.img{
+  height: 100%;
+  width:100%;
+  border-radius: 5px;
+
+
+}
+.Numero{
+  font-size:25px;
+}
+.image{
+  
+  width: 70px;
+  height: 70px;
+  border-radius: 5px;
+  padding-left: 40px;
+
+}
+p{
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 20px;
+}
+.top{
+  
+  display: flex;
+  height: 70px;
+  
+  
+  justify-content: flex-end;
+}
+section{
+  
+  
+  height: 70%;
+  width:100%;
+
+  display: flex;
+  flex-direction: column;
+}
+.Numbers{
+ 
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  width:70%;
+}
+span{
+  font-size: 20px ;
+  font-style:Bold;
+}
+.Bottom{
+  
+  display:flex;
+  justify-content: space-around;
+
+
+}
+.Number{
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.Name{
+  background-color: blue; 
+}
+.inputs{
+  margin : 50px;
+}
